@@ -63,3 +63,6 @@ local_settings.py
 
 # Windows
 Thumbs.db
+
+# Sensitive
+env.py
